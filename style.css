@@ -44,7 +44,9 @@ body {
   padding: 0;
   width: 100%;
   height: 500px;
-  color: #ffcc00;
+  /* color: #ffcc00; */
+  color: red;
+
   background-color: #243e60;
   display: flex;
   justify-content: center;
